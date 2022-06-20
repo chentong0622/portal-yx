@@ -1,6 +1,6 @@
 <template>
   <div class="case">
-    <banner img="../assets/img/bgtop.jpg" />
+    <banner img="../assets/img/yuexi/bgtop.webp" />
     <div class="case-product">
       <div class="case-product-content">
         <img v-lazy="imgserver+caseIdList.Img" alt />

@@ -1,6 +1,6 @@
 <template>
   <div class="download">
-    <banner img="../assets/img/appDown.jpg" title="下载APP" />
+    <banner img="../assets/img/yuexi/3.webp" title="示例" />
   </div>
 </template>
 

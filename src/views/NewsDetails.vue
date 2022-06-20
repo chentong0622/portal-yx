@@ -1,6 +1,6 @@
 <template>
   <div class="NewsDetails">
-    <banner img="../assets/img/bgtop.jpg" />
+    <banner img="../assets/img/yuexi/bgtop.webp" />
     <div class="NewsDetails-product">
       <div class="NewsDetails-product-content">
         <img v-lazy="imgserver+newsIdList.Img" alt />

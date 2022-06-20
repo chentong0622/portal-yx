@@ -1,6 +1,6 @@
 <template>
   <div class="go-in">
-    <banner img="../assets/img/bgtop.jpg" title="走进科建" />
+    <banner img="../assets/img/yuexi/bgtop.webp" title="走进钺曦" />
     <div class="section" v-loading="loading">
       <div class="section-content">
         <div class="content-summary">
@@ -8,7 +8,7 @@
             <p class="title">公司简介</p>
             <p class="eTitle">ABOUT US</p>
             <p class="content">
-              上海科建工程管理股份有限公司成立于2012年9月，注册资金500万。公司前身上海科建工程管理有限公司，
+              xxxx工程管理股份有限公司成立于2012年9月，注册资金500万。公司前身xxxx工程管理有限公司，
               是一家从事专业工程技术服务及工程项目管理的企业。公司于2017年11月通过国家高新技术企业认定，
               目前工程管理软件研发团队10人，包括硕士和研究生在内，平均年龄在35岁。公司自主研发工程项目管理
               标准化+互联网协同工作系统平台，此软件广泛应用于工程项目管理过程，实现全覆盖检查、全过程控制、全方位协调的目标。

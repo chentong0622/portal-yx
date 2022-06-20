@@ -3,8 +3,8 @@
     <swiper id="swiperBox" v-bind:options="swiperOption" ref="mySwiper">
       <swiper-slide class="swiper-slide slide-one">
         <div class="page">
-          <h3>科建股份</h3>
-          <p>KeJian Stock</p>
+          <h3>钺曦医疗</h3>
+          <p>YueXi Stock</p>
         </div>
         <p class="slogan">立人立己 达人达己</p>
       </swiper-slide>
@@ -250,7 +250,7 @@ export default {
   background-size: cover;
 }
 .slide-two {
-  background: url(../assets/img/home_do.jpg) no-repeat center;
+  background: url(../assets/img/yuexi/home_do.jpg) no-repeat center;
   background-size: cover;
 }
 .slide-three {
